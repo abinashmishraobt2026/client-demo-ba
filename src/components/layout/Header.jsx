@@ -176,7 +176,7 @@ const Header = () => {
               <Bars3Icon className="h-5 w-5" />
             </button>
           )}
-          <img src="/logo-offbeat.png" alt="" className="h-6 w-6 sm:h-7 sm:w-7 rounded-full object-cover flex-shrink-0 border border-gray-200" />
+          <img src="./logo-offbeat.png" alt="" className="h-6 w-6 sm:h-7 sm:w-7 rounded-full object-cover flex-shrink-0 border border-gray-200" />
           <h1 className="text-xs sm:text-sm font-semibold text-gray-900 truncate">
             <span className="sm:hidden">OffbeatTrips</span>
             <span className="hidden sm:inline">OffbeatTrips BA Portal</span>

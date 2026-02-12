@@ -1,1 +1,17 @@
-{"name":"OffbeatTrips Business Associate Portal","short_name":"OffbeatTrips BA","description":"Manage your business associate portal with OffbeatTrips.","icons":[{"src":"/logo-offbeat.png","sizes":"512x512","type":"image/png","purpose":"any"}],"start_url":"/","display":"standalone","theme_color":"#1E3A8A","background_color":"#F9FAFB"}
+{
+  "name": "OffbeatTrips Business Associate Portal",
+  "short_name": "OffbeatTrips BA",
+  "description": "Manage your business associate portal with OffbeatTrips.",
+  "icons": [
+    {
+      "src": "./logo-offbeat.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#1E3A8A",
+  "background_color": "#F9FAFB"
+}
