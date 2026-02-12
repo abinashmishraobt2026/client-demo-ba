@@ -29,7 +29,7 @@ const Logo = ({
   const LogoImage = () => (
     <div className={`${sizeClasses[size]} ${className} relative flex-shrink-0`}>
       <img
-        src="/logo-offbeat.png"
+        src="./logo-offbeat.png"
         alt="OffbeatTrips Logo"
         className="w-full h-full object-contain"
         onError={(e) => {
